@@ -1,0 +1,19 @@
+{
+  "name": "@phi-util/tiny",
+  "version": "1.0.0d",
+  "description": "the tiny unilities package",
+  "main": "index.js",
+  "author": "invalder",
+  "license": "MIT",
+  "keywords": [
+    "utility",
+    "tiny",
+    "npm",
+    "package",
+    "invalder"
+  ],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0"
+  }
+}
