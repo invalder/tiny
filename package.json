@@ -1,6 +1,6 @@
 {
   "name": "@phi-util/tiny",
-  "version": "1.0.0d",
+  "version": "1.0.0e",
   "description": "the tiny unilities package",
   "main": "index.js",
   "author": "invalder",
